@@ -1,0 +1,1 @@
+python main.py --row 6 --col 7 --type bvb --player_choice 1 --thinking_time 3 --verbose --is_dump --bot1 "Bot13520131.pkl" --bot2 "Bot1.pkl" 
